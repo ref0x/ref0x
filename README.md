@@ -1,6 +1,4 @@
 ### Hi there [ref0x](https://github.com/ref0x/) 👋
-#### I'm a software developer, cyber security enthusiast.
-
 
 ⚡ Skills: PYTHON / BASH / GNU+Linux 
 <!--
