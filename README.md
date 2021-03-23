@@ -1,4 +1,4 @@
-### Hi there [ref0x](/ref0x/. 👋
+### Hi there [ref0x](/ref0x/). 👋
 #### I'm a software developer, cyber security enthusiast.
 Skills: PYTHON / BASH / GNU+Linux 
 <!--
