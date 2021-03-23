@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there [ref0x](/ref0x/. 👋
+#### I'm a software developer, cyber security enthusiast.
+Skills: PYTHON / BASH / GNU+Linux 
 <!--
 **ref0x/ref0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
