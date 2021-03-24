@@ -1,8 +1,6 @@
 ### Hi there, my name is [ref0x](https://github.com/ref0x/) 👋
-<img src="https://tryhackme-badges.s3.amazonaws.com/refox.png"
-     alt="ref0x" />
 
-![Python](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)
+[![r3f0x](https://www.hackthebox.eu/badge/image/129863)](https://www.hackthebox.eu/home/users/profile/129863)
 
 <!--
 **ref0x/ref0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
