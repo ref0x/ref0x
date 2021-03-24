@@ -1,4 +1,6 @@
-### Hi there, my name is [ref0x](https://github.com/ref0x/) 👋
+## Hi there, my name is [ref0x](https://github.com/ref0x/) 👋
+
+[![r3f0x](https://www.hackthebox.eu/badge/image/129863)](https://app.hackthebox.eu/profile/129863)
 
 
 <!--
