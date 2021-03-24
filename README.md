@@ -1,7 +1,7 @@
-## Hi there, my name is [ref0x](https://github.com/ref0x/) 👋
+## Hi there, my name is [ref0x](https://github.com/ref0x/) 👋  
 
+[![r3f0x](https://i.ibb.co/wCCzqnz/r3f0x.png)](https://tryhackme.com/p/refox)
 [![r3f0x](https://www.hackthebox.eu/badge/image/129863)](https://app.hackthebox.eu/profile/129863)
-
 
 <!--
 **ref0x/ref0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
