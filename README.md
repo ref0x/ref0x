@@ -1,7 +1,7 @@
 
 ### $ whoami
 
-> \> _[r3f0x](https://github.com/ref0x/)_
+\> _[r3f0x](https://github.com/ref0x/)_
 
 ### $ ps
 
